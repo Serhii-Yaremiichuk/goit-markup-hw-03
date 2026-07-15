@@ -1,0 +1,22 @@
+.portfolio {
+}
+.portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+}
+/* .portfolio-title-list {
+} */
+/* .portfolio-list-item {
+}
+.portfolio-card {
+} */
+.portfolio-card-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.portfolio-card-text {
+  color: #434455;
+}
